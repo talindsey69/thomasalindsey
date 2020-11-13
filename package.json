@@ -1,8 +1,8 @@
 {
-  "name": "me",
+  "name": "thomasalindsey",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://.github.io/me",
+  "homepage": "https://talindsey69.github.io/thomasalindsey",
   "dependencies": {
     "typescript": "^3.9.3",
     "bulma": "^0.8.2",
