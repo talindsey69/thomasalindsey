@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thomasalindsey/static/css/main.f17ee086.chunk.css",
+    "main.js": "/thomasalindsey/static/js/main.87ddf56f.chunk.js",
+    "main.js.map": "/thomasalindsey/static/js/main.87ddf56f.chunk.js.map",
+    "runtime-main.js": "/thomasalindsey/static/js/runtime-main.5ee29ef6.js",
+    "runtime-main.js.map": "/thomasalindsey/static/js/runtime-main.5ee29ef6.js.map",
+    "static/js/2.71c71a68.chunk.js": "/thomasalindsey/static/js/2.71c71a68.chunk.js",
+    "static/js/2.71c71a68.chunk.js.map": "/thomasalindsey/static/js/2.71c71a68.chunk.js.map",
+    "index.html": "/thomasalindsey/index.html",
+    "precache-manifest.f7345326c9b21238bf000700c423d532.js": "/thomasalindsey/precache-manifest.f7345326c9b21238bf000700c423d532.js",
+    "service-worker.js": "/thomasalindsey/service-worker.js",
+    "static/css/main.f17ee086.chunk.css.map": "/thomasalindsey/static/css/main.f17ee086.chunk.css.map",
+    "static/js/2.71c71a68.chunk.js.LICENSE.txt": "/thomasalindsey/static/js/2.71c71a68.chunk.js.LICENSE.txt",
+    "static/media/GithubLogo.png": "/thomasalindsey/static/media/GithubLogo.9ce68bca.png",
+    "static/media/LinkedinLogo.png": "/thomasalindsey/static/media/LinkedinLogo.f08c524d.png",
+    "static/media/name-logo.png": "/thomasalindsey/static/media/name-logo.16d0b69a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ee29ef6.js",
+    "static/js/2.71c71a68.chunk.js",
+    "static/css/main.f17ee086.chunk.css",
+    "static/js/main.87ddf56f.chunk.js"
+  ]
+}
